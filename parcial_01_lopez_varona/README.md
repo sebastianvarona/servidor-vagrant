@@ -1,5 +1,9 @@
 # Parcial 01 Servicios Telematicos
 
+***Participantes***
+- Ana Sofia Lopez Lopez - 2205077
+- Juan Sebastian Varona Parra - 2205432
+
 ## Comandos
 
 ***Curl desde el cliente para verificar compresion***
