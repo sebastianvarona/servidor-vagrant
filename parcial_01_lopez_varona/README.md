@@ -1,6 +1,6 @@
 # Parcial 01 Servicios Telematicos
 
-***Participantes***
+## Participantes
 - Ana Sofia Lopez Lopez - 2205077
 - Juan Sebastian Varona Parra - 2205432
 
